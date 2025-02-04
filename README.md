@@ -1,3 +1,3 @@
-# cekarearag.html
+# cekarearag
 
-https://raw.githack.com/ragstoree/cekarearag.html/main/cekarearag.html
+https://raw.githack.com/ragstoree/cekarearag/main/cekarearag.html
